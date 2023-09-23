@@ -1,0 +1,10 @@
+D:\Pemrogramman Lanjut\Tugas3.1\bin\Debug\Tugas3.1.exe.config
+D:\Pemrogramman Lanjut\Tugas3.1\bin\Debug\Tugas3.1.exe
+D:\Pemrogramman Lanjut\Tugas3.1\bin\Debug\Tugas3.1.pdb
+D:\Pemrogramman Lanjut\Tugas3.1\obj\Debug\Tugas3.1.csproj.AssemblyReference.cache
+D:\Pemrogramman Lanjut\Tugas3.1\obj\Debug\Tugas3._1.Form1.resources
+D:\Pemrogramman Lanjut\Tugas3.1\obj\Debug\Tugas3._1.Properties.Resources.resources
+D:\Pemrogramman Lanjut\Tugas3.1\obj\Debug\Tugas3.1.csproj.GenerateResource.cache
+D:\Pemrogramman Lanjut\Tugas3.1\obj\Debug\Tugas3.1.csproj.CoreCompileInputs.cache
+D:\Pemrogramman Lanjut\Tugas3.1\obj\Debug\Tugas3.1.exe
+D:\Pemrogramman Lanjut\Tugas3.1\obj\Debug\Tugas3.1.pdb
